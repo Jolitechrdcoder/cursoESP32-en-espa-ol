@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Desktop/ok222/rafatech"
+		},
+		{
+			"name": "video1meca",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"gpio.h": "c"
+		}
+	}
+}
